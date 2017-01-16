@@ -4,6 +4,7 @@
     "keywords": ["aws", "dynamodb", "kms"],
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Carson Full",
@@ -32,10 +33,5 @@
     },
     "bin": [
         "bin/credstash"
-    ],
-    "extra": {
-        "branch-alias": {
-            "master": "1.0.0-stable"
-        }
-    }
+    ]
 }
