@@ -32,10 +32,5 @@
     },
     "bin": [
         "bin/credstash"
-    ],
-    "extra": {
-        "branch-alias": {
-            "master": "1.0"
-        }
-    }
+    ]
 }
