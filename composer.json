@@ -1,6 +1,6 @@
 {
     "name": "gmo/credstash",
-    "description": "A utility for managing secrets in the cloud using AWS KMS and DynamoDB",
+    "description": "Forked from https://github.com/gmo/credstash-php A utility for managing secrets in the cloud using AWS KMS and DynamoDB",
     "keywords": ["aws", "dynamodb", "kms"],
     "type": "library",
     "license": "MIT",
@@ -8,6 +8,10 @@
         {
             "name": "Carson Full",
             "email": "carsonfull@gmail.com"
+        },
+        {
+            "name": "Ben Fellows",
+            "email": "kiwifellows@gmail.com"
         }
     ],
     "require": {
@@ -31,7 +35,7 @@
     ],
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "master": "1.0"
         }
     }
 }
